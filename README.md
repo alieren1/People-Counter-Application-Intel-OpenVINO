@@ -1,5 +1,5 @@
 
-# People Counter
+# People Counter Application Intel OpenVINO
 
 
   | Details            |              |
